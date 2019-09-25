@@ -1,0 +1,14 @@
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\bin\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.deps.json
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\bin\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.runtimeconfig.json
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\bin\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.runtimeconfig.dev.json
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\bin\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.dll
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\bin\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.pdb
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.csprojAssemblyReference.cache
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.csproj.CoreCompileInputs.cache
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.RazorAssemblyInfo.cache
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.RazorAssemblyInfo.cs
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.AssemblyInfoInputs.cache
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.AssemblyInfo.cs
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.RazorTargetAssemblyInfo.cache
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.dll
+C:\Users\hiram\source\repos\UpdateSettingRuntimeAspNet\UpdateSettingRuntimeAspNet\obj\Debug\netcoreapp2.2\UpdateSettingRuntimeAspNet.pdb
